@@ -2,16 +2,16 @@
 	"aries": {
 		"symbol": "♈",
 		"dateMin": "2000-03-21",
-		"dateMax": "2000-04-20"
+		"dateMax": "2000-04-19"
 	},
 	"taurus": {
 		"symbol": "♉",
-		"dateMin": "2000-04-21",
-		"dateMax": "2000-05-21"
+		"dateMin": "2000-04-20",
+		"dateMax": "2000-05-20"
 	},
 	"gemini": {
 		"symbol": "♊",
-		"dateMin": "2000-05-22",
+		"dateMin": "2000-05-21",
 		"dateMax": "2000-06-21"
 	},
 	"cancer": {
@@ -32,31 +32,31 @@
 	"libra": {
 		"symbol": "♎",
 		"dateMin": "2000-09-24",
-		"dateMax": "2000-10-23"
+		"dateMax": "2000-10-22"
 	},
 	"scorpio": {
 		"symbol": "♏",
-		"dateMin": "2000-10-24",
+		"dateMin": "2000-10-23",
 		"dateMax": "2000-11-22"
 	},
 	"sagittarius": {
 		"symbol": "♐",
 		"dateMin": "2000-11-23",
-		"dateMax": "2000-12-21"
+		"dateMax": "2000-12-24"
 	},
 	"capricorn": {
 		"symbol": "♑",
-		"dateMin": "2000-12-22",
-		"dateMax": "2000-01-20"
+		"dateMin": "2000-12-25",
+		"dateMax": "2000-01-19"
 	},
 	"aquarius": {
 		"symbol": "♒",
-		"dateMin": "2000-01-21",
-		"dateMax": "2000-02-19"
+		"dateMin": "2000-01-20",
+		"dateMax": "2000-02-18"
 	},
 	"pisces": {
 		"symbol": "♓",
-		"dateMin": "2000-02-20",
+		"dateMin": "2000-02-19",
 		"dateMax": "2000-03-20"
 	}
 }
